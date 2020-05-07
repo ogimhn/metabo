@@ -1,14 +1,10 @@
 [
     {
         "data_type": "template",
-        "sheet_name": "Project",
-        "sheet_name.ja": "プロジェクト",
-        "sheet_desc": "Project information",
-        "sheet_desc.ja": "プロジェクト情報",
+        "sheet_id": "Project",
         "contents": [
             {
-                "label_name": "projcet ID",
-                "label_name.ja": "プロジェクトID",
+                "item_id": "projcet ID",
                 "label_type": "string",
                 "property_uri": "dcterms:identifier",
                 "data_type": "xsd:string",
